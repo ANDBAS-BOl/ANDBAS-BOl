@@ -22,6 +22,7 @@ de infraestructura.
 |---|---|
 | **Lenguaje** | Java 17 · Java 21 |
 | **Framework** | Spring Boot 3.x · Spring WebFlux · Spring Security |
+| **Frontend** | Angular · TypeScript |
 | **Arquitectura** | Hexagonal (Ports & Adapters) · Microservicios · Event-Driven · SOLID |
 | **Mensajería** | Apache Kafka (KRaft, multi-broker) · Patrón Saga · Twilio |
 | **Datos** | MySQL · MongoDB (incl. reactivo) · JPA / Hibernate |
@@ -29,6 +30,8 @@ de infraestructura.
 | **Testing** | JUnit 5 · Mockito · Reactor Test · Testcontainers · JaCoCo |
 | **Infra / Cloud** | Docker · Docker Compose · AWS (CloudFormation, Lambda, ECS, RDS) · Gradle |
 | **Documentación** | OpenAPI / Swagger (springdoc) |
+
+> **Angular y TypeScript vienen de mi experiencia profesional**, no de estos repositorios: aquí solo publico práctica de backend. El frontend lo trabajo desde hace 4+ años en proyectos internos que no son públicos.
 
 ---
 
