@@ -1,4 +1,4 @@
-# Ramiro Andrés Bastidas C.
+# Andres Bastidas
 
 **Desarrollador Backend Semi-Senior · Java · Spring Boot · Arquitectura Hexagonal · Sistemas Distribuidos**
 
@@ -87,5 +87,3 @@ y los roles IAM aplican privilegio mínimo por función.
 
 📧 **r.andresbastidas@gmail.com**
 
-<!-- Reemplaza la siguiente línea con tu URL real de LinkedIn, o bórrala -->
-💼 LinkedIn: _(pendiente)_
