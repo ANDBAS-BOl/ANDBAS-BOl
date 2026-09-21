@@ -1,10 +1,18 @@
 # Andres Bastidas
 
-**Desarrollador Backend Semi-Senior · Java · Spring Boot · Arquitectura Hexagonal · Sistemas Distribuidos**
+**Desarrollador Full Stack · Java · Spring Boot · Angular**
 
-Construyo servicios backend en Java con foco en **separación de responsabilidades** y **consistencia en sistemas distribuidos**.
-Casi todo lo que verás aquí aplica **arquitectura hexagonal (puertos y adaptadores)**: el dominio queda aislado del framework,
-y Spring, la base de datos o Kafka entran únicamente como adaptadores de infraestructura.
+4+ años construyendo backend empresarial y automatización de procesos. En Seguros
+Bolívar trabajé sobre Autobol, una plataforma interna de RPA con más de 150
+automatizaciones en producción para más de 300 usuarios: desarrollé robots en
+Java + Selenium, mantuve más de diez servicios y asumí seis de extremo a extremo
+—modelo de datos, backend y frontend en Angular—.
+
+Los repositorios de este perfil son **proyectos de formación**: es donde practico
+arquitectura hexagonal, mensajería con Kafka y programación reactiva, las áreas
+que estoy profundizando fuera del trabajo. El dominio queda aislado del
+framework, y Spring, la base de datos o Kafka entran únicamente como adaptadores
+de infraestructura.
 
 ---
 
