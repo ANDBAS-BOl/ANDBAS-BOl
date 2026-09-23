@@ -98,3 +98,5 @@ y los roles IAM aplican privilegio mínimo por función.
 
 📧 **r.andresbastidas@gmail.com**
 
+💼 [linkedin.com/in/randresbastidas](https://www.linkedin.com/in/randresbastidas/)
+
