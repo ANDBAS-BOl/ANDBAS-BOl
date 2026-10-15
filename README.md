@@ -27,7 +27,7 @@ de infraestructura.
 | **Mensajería** | Apache Kafka (KRaft, multi-broker) · Patrón Saga · Twilio |
 | **Datos** | MySQL · MongoDB (incl. reactivo) · JPA / Hibernate |
 | **Seguridad** | JWT · Spring Security · Roles y autorización por endpoint |
-| **Testing** | JUnit 5 · Mockito · Reactor Test · Testcontainers · JaCoCo |
+| **Testing** | JUnit 5 · Mockito · Reactor Test · JaCoCo |
 | **Infra / Cloud** | Docker · Docker Compose · AWS (CloudFormation, Lambda, ECS, RDS) · Gradle |
 | **Documentación** | OpenAPI / Swagger (springdoc) |
 
